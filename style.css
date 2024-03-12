@@ -1,0 +1,103 @@
+@font-face {
+	font-family: "Annie";
+	src: url("/fonts/AnnieUseYourTelescope-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Scope";
+	src: url("/fonts/ScopeOne-Regular.ttf");
+}
+
+body {
+	background-color: #8F7A67;
+}
+
+
+#background {
+	opacity: 0.8;
+}
+
+h1, h2 {
+	color: #FFFFFF;
+	font-family: "Annie", sans-serif;
+}
+
+a {
+	color: #FFFFFF;
+	font-family: "Scope", sans-serif;
+}
+
+p {
+	color: #FFFFFF;
+	font-family: "Scope", sans-serif;
+}
+
+.accordion-header {
+	font-family: "Scope", sans-serif;
+}
+
+.card {
+	background-color: #F2FCFF;
+	border: 2px solid #25838F;
+}
+
+.card-title {
+	color: #25838F;
+}
+
+.card img {
+	border: none;
+}
+
+.btn-primary {
+	background-color: #25838F;
+
+}
+
+
+#about-img {
+	border-radius: 50%;
+}
+
+
+form {
+	padding: 20px;
+	background-color: #F2FCFF;
+}
+
+form h2 {
+	color: #25838F;
+	font-family: "Annie", sans-serif;
+	font-weight: bold;
+}
+
+.navbar-custom {
+	background-color: #F2FCFF;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+	color: #25838F;
+}
+
+#cats-in-catalog {
+	border-color: #25838F;
+	background-color: #F2FCFF;
+	color: #25838F;
+}
+
+.badge {
+	color: #25838F;
+}
+
+img {
+	border: 3px solid #25838F;
+}
+
+.navbar-brand img {
+	border: none;
+}
+
+#spinner-text, #spinner{
+	color: #F2FCFF;
+}
